@@ -1,7 +1,16 @@
 # 💳 Credit Card Dashboard Project
 
 ## 📈 Project Objective
-To develop a comprehensive **credit card weekly and YTD dashboard** that provides real-time insights into key performance metrics and trends, enabling stakeholders to monitor and analyze credit card operations effectively.
+To develop a comprehensive **credit card transactions and customer report dashboard** that provides real-time insights into key performance metrics and trends, enabling stakeholders to monitor and analyze credit card operations effectively.
+
+---
+
+## 📄 Dashboard File
+
+📥 **[View Customer Dashboard PDF](./credit_card_financials_customer_report.pdf)**  
+This file presents credit card financials customer report in a clean and visual layout.
+📥 **[View Transactions Dashboard PDF](./credit_card_financials_transactions_report.pdf)**  
+This file presents credit card financials transactions report in a clean and visual layout.
 
 ---
 
@@ -23,13 +32,6 @@ To develop a comprehensive **credit card weekly and YTD dashboard** that provide
 - **Top States**: TX, NY, and CA contribute **68%** of total revenue  
 - **Activation Rate**: 57.5%  
 - **Delinquency Rate**: 6.06%
-
----
-
-## 📄 Dashboard File
-
-📥 **[View Dashboard PDF](./credit_card_financials_customer_report.pdf)**  
-This file presents both the **Weekly Summary** and **Year-to-Date Overview** in a clean and visual layout.
 
 ---
 
