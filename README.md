@@ -28,7 +28,7 @@ To develop a comprehensive **credit card weekly and YTD dashboard** that provide
 
 ## 📄 Dashboard File
 
-📥 **[View Dashboard PDF](./credit_card_financials_-_customer_report.pdf)**  
+📥 **[View Dashboard PDF](./credit_card_financials_customer_report.pdf)**  
 This file presents both the **Weekly Summary** and **Year-to-Date Overview** in a clean and visual layout.
 
 ---
