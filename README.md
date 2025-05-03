@@ -19,8 +19,6 @@ This file presents credit card financials transactions report in a clean and vis
 
 ### 🔹 Week 53 Summary (Ending 31st Dec)
 - Revenue increased by **28.8% WoW**
-- Total Transaction Amount and Count increased by `xx%`
-- Customer Count increased by `xx%`
 
 ### 🔹 Year-to-Date Overview
 - **Total Revenue**: $57M  
